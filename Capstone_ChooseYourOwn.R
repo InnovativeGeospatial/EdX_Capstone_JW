@@ -18,7 +18,7 @@ for (pkg in Packages) {
 }
 
 
-setwd("C:/Users/Justin.White/OneDrive - afacademy.af.edu/Desktop/DownloadTime/HarvardStats_2024/HarvardStats_2024/Final_Capstone_Files_AZ_Border")
+setwd("C:/Users/")
 AZ_Data <- read.csv("./Capstone_Mortality_Dataset.csv", header=TRUE)
 head(AZ_Data)
   
